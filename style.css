@@ -1,0 +1,18 @@
+#main_{
+	background-image: url(res/main.jpg)!important;
+	opacity: 1.9;
+	border-radius: 10px;
+}
+
+@media (min-width: 992px)
+#main_ {
+    height: 30vh;
+}
+@media (min-width: 768px)
+#main_ {
+    height: 30vh;
+}
+@media (min-width: 508px)
+#main_ {
+    height: 60vh;
+}
